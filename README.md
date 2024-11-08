@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  a Daniel I'm a web developer, from niger</p>
+<p align="left">My name is  a Daniel I'm a web developer, from nigeria</p>
 
 ###
 
